@@ -1,4 +1,4 @@
-## _Basic Calc - JavaScript_
+## Basic Calc - JavaScript
 
 Implementação de uma calculadora básica p/ rodar no browser. O desenvolvimento foi feito durante uma das aulas do MBA **Full Stack Development - Design, Engineering and Deployment** na [FIAP](https://www.fiap.com.br/).
 
