@@ -12,5 +12,5 @@
 > HTML, CSS e JavaScript.
 
 **Como rodar**
-> 1. Clone o repo com: _git clone https://github.com/EvandroHiga/proj_calc_javascript.git_
+> 1. Clone o repo com: `git clone https://github.com/EvandroHiga/proj_calc_javascript.git`
 > 2. Abra o arquivo _index.html_.
